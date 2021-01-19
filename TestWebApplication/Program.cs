@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 namespace TestWebApplication {
 	public class Program {
 		public static void Main(string[] args) {
+			//TEST
 			CreateHostBuilder(args).Build().Run();
 		}
 
